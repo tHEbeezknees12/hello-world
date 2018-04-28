@@ -1,3 +1,3 @@
 # hello-world
 to say hello
-like to dance
+to dance
